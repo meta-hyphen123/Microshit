@@ -52,7 +52,7 @@ Enter a Number for a specific output:
 
 <br/>
 
-***Now Microshit is installed successfully. To run Tool-X Type `Tool-X` or `toolx` in your terminal.***
+***Now Microshit is installed successfully.***
 
 Type `python Microshit.py` from Microshit file in your terminal to open Microshit.
 
