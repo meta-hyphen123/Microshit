@@ -5,8 +5,8 @@
 
 ### Introduction
 
-*microshit is a Kali Linux hacking tools installer for Termux and linux system.*
-microshit was developed for Termux and other android terminals. Using microshit, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now microshit is available for Ubuntu, Debian etc.
+*Microshit is a Kali Linux hacking tools installer for Termux and linux system.*
+Microshit was developed for Termux and other android terminals. Using Microshit, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Microshit is available for Ubuntu, Debian etc.
 
 
 
@@ -16,7 +16,7 @@ microshit was developed for Termux and other android terminals. Using microshit,
 
 ![image](https://github.com/meta-hyphen123/Microshit/assets/136706431/a12e8dc8-f4da-4995-a4fc-e640ea6f9e91)
 
-microshit works on any of the following operating systems:<br>
+Microshit works on any of the following operating systems:<br>
 • **Android** (Using the Termux App) <br>
 • **Linux** (Debian Based Systems) <br>
 
